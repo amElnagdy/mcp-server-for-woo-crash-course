@@ -106,6 +106,12 @@ instance/
 node_modules/
 package-lock.json
 
+# Python version management
+.python-version
+
+# Package management
+uv.lock
+
 # Misc
 .sass-cache/
 .project
